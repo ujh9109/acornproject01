@@ -7,7 +7,7 @@
 <title>/users/loginform.jsp</title>
 </head>
 <body>
-	<a href="${pageContext.request.contextPath }/index/headquaterindex.jsp">본사 페이지</a>
+	<a href="${pageContext.request.contextPath }/user/headquaterLoginForm.jsp">본사 페이지</a>
 	<a href="${pageContext.request.contextPath }/index/branchindex.jsp">지점 페이지</a>
 </body>
 </html>
